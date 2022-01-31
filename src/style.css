@@ -12,3 +12,8 @@ img {
   border: 2px solid indigo;
   border-radius: 8px;
 }
+.index-link {
+  text-align: center;
+  display: inline;
+  margin: 0 auto;
+}
